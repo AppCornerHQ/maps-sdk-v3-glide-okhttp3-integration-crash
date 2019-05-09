@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glide OkHttp Crash Test</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
