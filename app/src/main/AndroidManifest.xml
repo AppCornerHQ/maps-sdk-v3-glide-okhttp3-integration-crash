@@ -13,6 +13,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:name="androidx.multidex.MultiDexApplication"
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity android:name="eu.appcorner.mapsv3.glideokhttpcrash.MapsActivity">
